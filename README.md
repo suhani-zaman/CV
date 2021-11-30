@@ -73,7 +73,7 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 ## Contact
 
-- [![alt text][1.1]][1] [Suhani Zaman](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)
+- [![alt text][1.1][Linkedin]] [Suhani Zaman](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)
 - [![alt text][2.1]][2] [@suhani_zaman](https://www.codewars.com/users/suhani_zaman)
 - ![alt text][3.1][suhanizaman15@gmail.com]
 - [![alt text][4.1]][4] [suhani-zaman](https://github.com/suhani-zaman)
@@ -81,7 +81,7 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 [1.1]: https://imgur.com/qvrM5Um.png
 [2.1]: https://icons-for-free.com/iconfiles/png/128/codewars-1324440140703576726.png
-[3.1]: https://cpng.pikpng.com/pngl/s/33-336849_go-for-gmail-gmail-icon-clipart.png
+[3.1]: https://imgur.com/ncWi6Ts.png
 [4.1]: http://i.imgur.com/0o48UoR.png 
 [5.1]: https://imgur.com/kpx2bmH.png
 
