@@ -1,77 +1,92 @@
-## Your Name
+### Suhani Badi Uz Zaman
+## I'm creative thinker and life enthusiast.
+Border view as per my existence on the hub i'm ambitious full stack junior web developer filled with energy to quench my thirst for learning, as said looking for a role where i can consolidate and extend my programming knowledge, while also gaining exposure to elements related to tech industry i.e strategy, management etc.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Recently i have completed the intensive 12 weeks Makers Academy (july-Oct 2021) where they taught and instilled on us the best coding practices and to be a mindful coder. Computer science was my high school major where i learned basics of it, later on followed the interest and pursued computer systems as UG degree(still pursuing).Passionate about writing code that follows TDD, clean(SRP) and resuable.
 
+Everyone loves game and i started Coding as result of it, it has always been fun game to me where the result is greater than just statisfaction of problem-solving it produces and creates something out of your mind and there's so much to it to play around with and it adds value to the world and can ease life. PERFECT COMBO.
+
+**Tech skills :** Ruby, Rails, Python, Node.js, React, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, Sinatra, Active Record, MongoDB, Jest, Jasmine, Rspec, Capybara.
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                | Tech/tools        |
+| ---------------------------- | -------------------------  | ----------------- |
+| **GiftHub**                  | A platform for users/artist| MongoDB, Express, | 
+|                              | to send and receive gift to| React, Node,      |
+|                              | friend/artist as token     | Cypress, Jest.    | 
+|                              | appreaciton to each other  |                   |
+|                              | in form of coffee, cupcake |                   |
+|                              | etc emojis. Made within two|                   |
+|                              |weeks by learning MERN stack|                   |
+|                              | for the final Makers       |                   |
+|                              |engineering group project.  |                   |               
+|----------------------------  | -------------------------  | ----------------- |             
+| **Acebook**                  | A facebook clone card      | Ruby on Rails,    |
+|                              | themed app made as part of | Rspec, jQuery,    |
+|                              | group projects for Makers  | Active Record,    |
+|                              | over the period of two     | Capybara.         |
+|                              | weeks.Can post,like,upload |                   |
+|                              |picture as well as profile  |                   |
+|                              |photo, search post,sign-in, |                   |
+|                              | sign-up etc with all themed|                   |
+|                              | as cards.                  |                   |
+|----------------------------  | -------------------------  |-------------------|
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Fast-learner** - Having done Makers, i can confidently believe in this notion of myself.Able to quickly grasp new programming language & technolgies efficently as seen by producing our final project on MERN stack without prior knwoledge within time frame of two weeks and challenging myself everyday with quest to find the shortest solution to every problem.In other aspects also i find myself to be quick learner whether producing decent video for my university function without prior knwolege on editing, creating fun vlogs or making quarantine delicious dish with the help of our beloved internet.
 
--STAR
--What was the situation/task? (ST)
+**Commitment** - Having different time zone(UAE), i have completed 12 weeks of Makers Academy coding bootcamp(UK) as a remote student during my summer vaction of my university.This required alot of discipline,focus, pushing myself to the end goal without getting distracted. Proving myself to be highly motivated and resilient boosted my self-apperciation.
 
--How was the skill used?
+**Team-player** - Truly believe in combined effort and minds produce better work than done single handed.Always been comfortable working in teams whether it be being part & working towards the end goal or offering leadership when the situation arises as in taking intiative in HULT program for my university. Makers as mostly been about taking and being part of group challenges or pairing everyday which as given insight on working with different perosnality,background and expressing your thoughts idea in a respectable manner. With daily standups, retro it has encouraged and shown when minds sync with what is needed, greater things can be achieved.
 
--What did you do? (action)
+**Adaptable** - i consider new languages, new environments, new teams, new challenge, diversity of people as opportunity to grow as an individual, there's always way to find your zone and connect with others. Exploring is something i love, you never know what you might find. Having changed countires and schools mutiple times in my life, i have always been able to connect and adapt to the new environment each time whether be at my school or the new neighborhood or with this summer course me being the only international student in the cohort.
 
--What was the result?
+**Creative** - i have always been told i have creative mind and i believe i have a very good imagination. Creating funky sketches, making entertaining videos and designing unique outfits is always been my interest. With coding also i believe this comes in handy with problem solving, trying to think out of the boxes for problems which seems intractable. 
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Additional Skills
+**Methodologies :** Agile XP, Test Driven Development
+**Language :** English, Hindi, Malayalam, Urdu, Arabic(basic level)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2021 to October 2021 )
+Successfully completed Makers Academy, which is a highly selective coding Bootcamp teaching Full-stack Software Development in 16 weeks. Focussing on Test Driven Development, with an emphasis on pair programming and working with an agile mythology. 
 
-#### Your University / College (start_date to end_date)
+- Independent learning and problem-solving
+- Full-stack web development
+- Completed workshops on empathy, teamwork and EQ
+- Agile working methodology and scrum
+- Converting project requirements into user stories and workable tickets( trello board, miro)
+- Experience with MVC framework patterns, OOP principles, DDD approach and TDD.
+- anguage agnostic learning (Ruby, Rails, Sinatra, JavaScript, MERN)
+- Test Driven Development (RSpec, Capybara, Jasmine, Jest, Cypress)
+- Pair programming everyday of the course with a different pair and work on group projects in teams of 3,4 and 5.
+- worked with version control using Github on every project and pair/group programming session.
+#### Middlesex University Beng Computer System(sept 2018-present)
+- been core member of computer science club in my university
+- Programming for data communication and problem solving
+- computer systems architecture & Operating systems.
+- Network Protcols and Analysis
+- digital system design
+- project management and professional practice
+- software enginerring and development
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### short courses
+- HarvardX CS50AI
+- Qwiklabs
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+## Hobbies and Interest
 
-## Hobbies
+**mediatating and yoga** - to attain midfulness for my all my life task. A sound mind in a sound body.
+**food blogger** - Food is an emotion that shrinks all other emotion. The highest elevated state.
+**drawing** - out of pure joy for things i love whether it be unqiue otufit or potrait of fav celebrity( dm to see portrait of ian somerhalder) or just calm scenary
+**fashion enthusiast** - likes to impress myself everyday:)
+**capturing memories** - always love filiming a moment i want to remember or just peace.
+**dancing**
 
-Any cool stuff that makes you a super part of a software development team
+
+
+
