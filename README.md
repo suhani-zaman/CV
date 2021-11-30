@@ -77,7 +77,7 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 - [![alt text][6.1]][6]
 
 
-[1.1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw14Z_NaGaRFyBUrXJ5-n3au&ust=1638333636763000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCLoa6jv_QCFQAAAAAdAAAAABAD
+[1.1]: https://imgur.com/OQUXwNp.png
 [6.1]: http://i.imgur.com/0o48UoR.png 
 
 [1]: https://www.linkedin.com/in/suhani-zaman-35a9301b0/
