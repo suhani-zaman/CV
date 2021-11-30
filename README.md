@@ -11,25 +11,10 @@ Everyone loves game and i started Coding as a result of it, Coding has always be
 
 | Name                         | Description                | Tech/tools        |
 | ---------------------------- | -------------------------  | ----------------- |
-|[GiftHub](https://github.com/suhani-zaman/work-social)                     | A platform for users/artist| MongoDB, Express, | 
-|                              | to send and receive gift to| React, Node,      |
-|                              | friend/artist as token of  | Cypress, Jest.    | 
-|                              | appreaciton to each other  |                   |
-|                              | in form of coffee, cupcake |                   |
-|                              | etc. Made by learning MERN |                   |
-|                              | stack for the final Makers |                   |
-|                              | engineering group project  |                   |
-|                              | within two weeks time frame|                   |               
+|[GiftHub](https://github.com/suhani-zaman/work-social) | A platform for users/artist to send and receive gift to friend/artist as token of appreaciton to each other in form of coffee, cupcake etc. Made by learning MERN stack for the final Makers engineering group project within two weeks time frame| MongoDB,React, Node, Express, Cypress, Jest.| 
+             
 |----------------------------  | -------------------------  | ----------------- |             
-| [Acebook](https://github.com/suhani-zaman/acebook)| A facebook clone card      | Ruby on Rails,    |
-|                              | themed app made as part of | Rspec, jQuery,    |
-|                              | group project for Makers   | Active Record,    |
-|                              | over the period of two     | Capybara.         |
-|                              | weeks. Can post,like,upload|                   |
-|                              | picture as well as profile |                   |
-|                              | photo, search post,sign-in,|                   |
-|                              | sign-up etc with main      |                   |
-|                              | elements themed as cards.  |                   |
+| [Acebook](https://github.com/suhani-zaman/acebook)| A facebook clone card themed app made as part of  group project for Makers  over the period of two weeks. Can post,like,upload picture as well as profile photo, search post,sign-in sign-up etc with main  elements themed as cards. | Ruby on Rails, Rspec, jQuery, Active Record, Capybara |
 |----------------------------  | -------------------------  |-------------------|
 
 ## Skills
@@ -79,12 +64,12 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 ## Hobbies and Interest
 
-**meditation and yoga** :woman_in_lotus_position: - to attain a state of mindfulness. A sound mind in a sound body.
-**food blogger** :yum:- Food is an emotion that shrinks all other emotion. The highest elevated state.
-**drawing** :pencil2: - out of pure joy for things i love whether it be unqiue otufit or potrait of fav celebrity( dm to see portrait of ian somerhalder) or just calm doodling
-**fashion enthusiast** :dress: - likes to impress myself everyday:)
-**capturing memories** :camera: - always love to film a moment to remember or something serene.
-**dance** :woman_dancing:
+- **meditation and yoga** :woman_in_lotus_position_medium_skin_tone: - to attain a state of mindfulness. A sound mind in a sound body.
+- **food blogger** :yum:- Food is an emotion that shrinks all other emotion. The highest elevated state.
+- **drawing** :pencil2: - out of pure joy for things i love whether it be unqiue otufit or potrait of fav celebrity( dm to see portrait of ian somerhalder) or just calm doodling
+- **fashion enthusiast** :dress: - likes to impress myself everyday:)
+- **capturing memories** :camera: - always love to film a moment to remember or something serene.
+- **dance** :woman_dancing:
 
 
 
