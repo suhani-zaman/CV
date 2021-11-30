@@ -12,10 +12,8 @@ Everyone loves game and i started Coding as a result of it, Coding has always be
 | Name                         | Description                | Tech/tools        |
 | ---------------------------- | -------------------------  | ----------------- |
 |[GiftHub](https://github.com/suhani-zaman/work-social) | A platform for users/artist to send and receive gift to friend/artist as token of appreaciton to each other in form of coffee, cupcake etc. Made by learning MERN stack for the final Makers engineering group project within two weeks time frame| MongoDB,React, Node, Express, Cypress, Jest.| 
-             
-|----------------------------  | -------------------------  | ----------------- |             
+            
 | [Acebook](https://github.com/suhani-zaman/acebook)| A facebook clone card themed app made as part of  group project for Makers  over the period of two weeks. Can post,like,upload picture as well as profile photo, search post,sign-in sign-up etc with main  elements themed as cards. | Ruby on Rails, Rspec, jQuery, Active Record, Capybara |
-|----------------------------  | -------------------------  |-------------------|
 
 ## Skills
 
@@ -75,7 +73,7 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 - [![LinkedIn][1.1]][1] [LinkedIn(@Suhani Zaman)](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)
 - [![Codewars][2.1]][2] [Codewars(@suhani_zaman)](https://www.codewars.com/users/suhani_zaman)
-- ![Gmail][3.1] Gmail(suhanizaman15@gmail.com)
+- ![Gmail][3.1] [Gmail(suhanizaman15@gmail.com)]
 - [![Github][4.1]][4] [Github(@suhani-zaman)](https://github.com/suhani-zaman)
 - [![Instagram][5.1]][5] [Instagram(@suhani_zaman)](https://www.instagram.com/suhani_zaman/) :yum: 
 
