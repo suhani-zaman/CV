@@ -80,7 +80,7 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 - [![Instagram][5.1]][5] [@suhani_zaman](https://www.instagram.com/suhani_zaman/) :yum: 
 
 [1.1]: https://imgur.com/qvrM5Um.png
-[2.1]: https://img.shields.io/badge/Codewars-%40cococodes-B1361E?style=social&logo=codewars&?labelColor=white
+[2.1]: 
 [3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-24x24.png?raw=true
 [4.1]: http://i.imgur.com/0o48UoR.png 
 [5.1]: https://imgur.com/kpx2bmH.png
