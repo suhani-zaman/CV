@@ -64,13 +64,17 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 ## Hobbies and Interest
 
-- **meditation and yoga** :woman_in_lotus_position_medium_skin_tone: - to attain a state of mindfulness. A sound mind in a sound body.
+- **meditation and yoga** :lotus_position_woman: - to attain a state of mindfulness. A sound mind in a sound body.
 - **food blogger** :yum:- Food is an emotion that shrinks all other emotion. The highest elevated state.
 - **drawing** :pencil2: - out of pure joy for things i love whether it be unqiue otufit or potrait of fav celebrity( dm to see portrait of ian somerhalder) or just calm doodling
 - **fashion enthusiast** :dress: - likes to impress myself everyday:)
 - **capturing memories** :camera: - always love to film a moment to remember or something serene.
 - **dance** :woman_dancing:
 
+##Contact
+- [![alt text][6.1]][6]
 
 
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+[6]: https://github.com/suhani-zaman
