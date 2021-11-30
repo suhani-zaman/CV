@@ -73,16 +73,21 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 ## Contact
 
-- [![LinkedIn][1.1]][1] [LinkedIn](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)|Suhani Zaman|
+- [![LinkedIn][1.1]][1] [LinkedIn](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)
+|Suhani Zaman|
 |------------|
-- [![Codewars][2.1]][2] [Codewars](https://www.codewars.com/users/suhani_zaman)|@suhani_zaman|
-|----|
-- ![Gmail][3.1] |suhanizaman15@gmail.com|
-|----|
-- [![Github][4.1]][4] [Github](https://github.com/suhani-zaman)|@suhani-zaman|
-|----|
-- [![Instagram][5.1]][5] [Instagram](https://www.instagram.com/suhani_zaman/) :yum: |@suhani_zaman|
-|---|
+- [![Codewars][2.1]][2] [Codewars](https://www.codewars.com/users/suhani_zaman)
+|@suhani_zaman|
+|-------------|
+- ![Gmail][3.1] [Gmail]
+|suhanizaman15@gmail.com|
+|-----------------------|
+- [![Github][4.1]][4] [Github](https://github.com/suhani-zaman)
+|@suhani-zaman|
+|-------------|
+- [![Instagram][5.1]][5] [Instagram](https://www.instagram.com/suhani_zaman/) :yum: 
+|@suhani_zaman|
+|-------------|
 
 [1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png?raw=true
 [2.1]: https://imgur.com/T4C1AHf.png
