@@ -73,12 +73,19 @@ Successfully completed Makers Academy, which is a highly selective coding Bootca
 
 ## Contact
 
-- [![alt text][1.1]][1]
-- [![alt text][6.1]][6]
+- [![alt text][1.1]][1] [Suhani Zaman](https://www.linkedin.com/in/suhani-zaman-35a9301b0/)
+- [![alt text][2.1]][2] [@suhani_zaman](https://www.codewars.com/users/suhani_zaman)
+- [![alt text][3.1]][3] [suhanizaman15@gmail.com]
+- [![alt text][4.1]][4] [suhani-zaman](https://github.com/suhani-zaman)
+- [![alt text][5.1]][5] [@suhani_zaman](https://www.instagram.com/suhani_zaman/) :yum: 
 
-
-[1.1]: https://imgur.com/OQUXwNp.png
-[6.1]: http://i.imgur.com/0o48UoR.png 
+[1.1]: https://imgur.com/qvrM5Um.png
+[2.1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsign_in&psig=AOvVaw23U62_WS27OMDWVn2Hnrw-&ust=1638335688871000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCg9P-qv_QCFQAAAAAdAAAAABAX
+[3.1]: https://imgur.com/ncWi6Ts.png
+[4.1]: http://i.imgur.com/0o48UoR.png 
+[5.1]: https://imgur.com/kpx2bmH.png
 
 [1]: https://www.linkedin.com/in/suhani-zaman-35a9301b0/
-[6]: https://github.com/suhani-zaman
+[2]: https://www.codewars.com/users/suhani_zaman
+[4]: https://github.com/suhani-zaman
+[5]: https://www.instagram.com/suhani_zaman/
