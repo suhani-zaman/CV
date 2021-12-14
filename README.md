@@ -1,6 +1,6 @@
 ### Suhani Badi Uz Zaman
 ##### I'm a creative thinker and life enthusiast.
-To elaborate I'm a ambitious full stack junior web developer filled with energy to quench my thirst for learning, as said looking for a role where i can consolidate and extend my programming knowledge, while also gaining exposure to elements related to tech industry i.e strategy, management etc.
+I'm a ambitious full stack junior web developer filled with energy to quench my thirst for learning, as said looking for a role where i can consolidate and extend my programming knowledge, while also gaining exposure to elements related to tech industry i.e strategy, management etc.
 
 Recently i have completed the intensive 12 weeks [Makers Academy](https://github.com/makersacademy) (july-Oct 2021) where they taught and instilled on us the best coding practices and to be a mindful coder. Computer science was my high school major where i learned basics of it, later on followed the interest and pursued Computer Systems as UG degree(still pursuing).Passionate about writing code that follows TDD, clean(SRP) and resuable.
 
